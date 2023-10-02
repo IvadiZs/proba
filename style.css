@@ -1,0 +1,13 @@
+#main {
+    border: 2px gray solid;
+    width: 20%;
+    position: absolute;
+    height: 50%;
+    top: 10%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+#inputPassword {
+    margin-top: 15px;
+}
